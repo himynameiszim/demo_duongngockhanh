@@ -1,1 +1,1 @@
-# demo on mac
+# Demo on Ubuntu
